@@ -1,0 +1,5069 @@
+{
+  "coc-python|/home/root99/Tries": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e08783d1288d49c67a9496a2a2d6b723": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e08783d1288d49c67a9496a2a2d6b723": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/Tries": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:d7d3d65e00ed0cf6327c13413c465d61": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d7d3d65e00ed0cf6327c13413c465d61": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/usr/bin/python"
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/sbin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130082
+    },
+    "/usr/sbin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130086
+    },
+    "/usr/sbin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130091
+    },
+    "/usr/sbin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130095
+    },
+    "/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130116
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130118
+    },
+    "/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130121
+    },
+    "/usr/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130123
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130125
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130128
+    },
+    "/sbin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130078
+    },
+    "/home/root99/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789"
+      },
+      "expiry": 1628165133831
+    },
+    "/sbin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6"
+      },
+      "expiry": 1628165130131
+    },
+    "/sbin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131286
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131280
+    },
+    "/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131283
+    },
+    "/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131274
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131241
+    },
+    "/usr/sbin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131215
+    },
+    "/usr/sbin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131277
+    },
+    "/sbin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2"
+      },
+      "expiry": 1628165131217
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/sbin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+        "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+        "type": "Unknown"
+      }
+    ],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1628187204820
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6-f935a98f3d5d8b0ee9723381953886a9"
+      },
+      "expiry": 1628187204681
+    },
+    "/home/root99/anaconda3/envs/auto-grader/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/auto-grader/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/auto-grader",
+        "fileHash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168"
+      },
+      "expiry": 1628165132551
+    },
+    "/home/root99/anaconda3/envs/project/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/project/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/project",
+        "fileHash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b"
+      },
+      "expiry": 1628165132510
+    },
+    "/home/root99/anaconda3/envs/test/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/test/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.10-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.10-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/test",
+        "fileHash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2"
+      },
+      "expiry": 1628165134381
+    },
+    "ProposeLSBanner": false,
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/home/root99/anaconda3"
+        },
+        {
+          "name": "auto-grader",
+          "path": "/home/root99/anaconda3/envs/auto-grader"
+        },
+        {
+          "name": "project",
+          "path": "/home/root99/anaconda3/envs/project"
+        },
+        {
+          "name": "test",
+          "path": "/home/root99/anaconda3/envs/test"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/auto-grader/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/auto-grader",
+        "fileHash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/auto-grader",
+        "envName": "auto-grader"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/project/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/project",
+        "fileHash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/project",
+        "envName": "project"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/test/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.10-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.10-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/test",
+        "fileHash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/test",
+        "envName": "test"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3",
+        "envName": "base"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/project/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/project",
+        "fileHash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/project",
+        "envName": "project"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/auto-grader/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/auto-grader",
+        "fileHash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/auto-grader",
+        "envName": "auto-grader"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/envs/test/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.10-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 10,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.10-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3/envs/test",
+        "fileHash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/root99/anaconda3/envs/test",
+        "envName": "test"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/home/root99/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('base': conda)",
+        "hash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789-edfc9f275431b06c7a41c32264d35876"
+      },
+      "expiry": 1627406913298
+    },
+    "/home/root99/anaconda3/envs/auto-grader/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit ('auto-grader': conda)",
+        "hash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168-16ca5b50ddb72461568d01aafbe66b97"
+      },
+      "expiry": 1627406913304
+    },
+    "/home/root99/anaconda3/envs/project/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit ('project': conda)",
+        "hash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b-f5d333616148c98bb69bdaa8d3cadba2"
+      },
+      "expiry": 1627406913336
+    },
+    "/home/root99/anaconda3/envs/test/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.10 64-bit ('test': conda)",
+        "hash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2-5d035d7975322d9bc24375c6fdb5ddaa"
+      },
+      "expiry": 1627406913340
+    },
+    "/usr/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2-f94bd00c60ce9be7d8177f7d0e4a33dc"
+      },
+      "expiry": 1628187204687
+    },
+    "/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6-014bb417c3e345b1ab76c11d0148706b"
+      },
+      "expiry": 1628187204690
+    },
+    "/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2-d0977c9f920315f0bbc64942366c2a1a"
+      },
+      "expiry": 1628187204694
+    },
+    "/usr/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6-bd22764568ff43f40837eda74c6f7d06"
+      },
+      "expiry": 1628187204698
+    },
+    "/usr/sbin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2-0667849aca1ffe6f818fac3ecd178ecf"
+      },
+      "expiry": 1628187204701
+    },
+    "/sbin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6-ed433aff7684f28e4c0c7922fa2b0e49"
+      },
+      "expiry": 1628187204704
+    },
+    "/sbin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2-ef54fc992f086f08990d2583930834cb"
+      },
+      "expiry": 1628187204729
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+      "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "/home/root99/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/home/root99/anaconda3",
+          "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/root99/anaconda3",
+          "envName": "base",
+          "displayName": "Python 3.8.5 64-bit ('base': conda)"
+        }
+      },
+      "expiry": 1627406913362
+    },
+    "/home/root99/anaconda3/envs/auto-grader/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/anaconda3/envs/auto-grader/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/home/root99/anaconda3/envs/auto-grader",
+          "fileHash": "29f5b82430ee5cd3a56556fed45f9e0d0950831f3fefb3489624aae715b307704ebeea58813148e06f6f6876f7956ad5a4dad2fe16205aed4fda6122b27e6168",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/root99/anaconda3/envs/auto-grader",
+          "envName": "auto-grader",
+          "displayName": "Python 2.7.18 64-bit ('auto-grader': conda)"
+        }
+      },
+      "expiry": 1627406913373
+    },
+    "/home/root99/anaconda3/envs/project/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/anaconda3/envs/project/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/home/root99/anaconda3/envs/project",
+          "fileHash": "adc1cbda40e07e8d3487ade38a7a00f0129bdedd292fb758d6044b8d1a838d2e73b4bc0ece4e04f15aa22c7d1388f703cebb1e9b6073a64710061d88a137335b",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/root99/anaconda3/envs/project",
+          "envName": "project",
+          "displayName": "Python 2.7.18 64-bit ('project': conda)"
+        }
+      },
+      "expiry": 1627406913382
+    },
+    "/home/root99/anaconda3/envs/test/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/anaconda3/envs/test/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.10-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 10,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.10-final"
+          },
+          "sysPrefix": "/home/root99/anaconda3/envs/test",
+          "fileHash": "d0fa2d750d59c686155bb9deee552a897f626c3df892ad64afbd6a5dff1e6e2d4210c2c8ff93c752b1dc1f3be8ad471a7d16f814d28b8834150438433cd96ef2",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/root99/anaconda3/envs/test",
+          "envName": "test",
+          "displayName": "Python 3.8.10 64-bit ('test': conda)"
+        }
+      },
+      "expiry": 1627406913391
+    },
+    "/usr/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1628187204836
+    },
+    "/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1628187204849
+    },
+    "/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1628187204865
+    },
+    "/usr/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1628187204894
+    },
+    "/usr/sbin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/sbin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1628187204903
+    },
+    "/sbin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1628187204958
+    },
+    "/sbin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+        "info": {
+          "architecture": 3,
+          "path": "/sbin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "cada4828fc2b881e2986ec4a335537aef1c89c96b40234b0c08872e7c429f1c6e37cf3ca6de0c9984156815c3661f5d4684800b91ec4e7c7e58881a555bd37e2",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1628187205005
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+      "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db"
+      },
+      "expiry": 1625986976868
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db"
+      },
+      "expiry": 1625986976873
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db"
+      },
+      "expiry": 1625986976871
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit ('django-autoeval': venv)",
+        "hash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db-c46c4b6c487391b0b42c8952ec34a552"
+      },
+      "expiry": 1625986977118
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+          "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+          "envName": "django-autoeval",
+          "type": "Venv",
+          "displayName": "Python 3.9.6 64-bit ('django-autoeval': venv)"
+        }
+      },
+      "expiry": 1625986977286
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+          "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+          "type": "Unknown",
+          "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)"
+        }
+      },
+      "expiry": 1624678941657
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit",
+        "hash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db-0bcc0e040398d42a60a832f19572d17a"
+      },
+      "expiry": 1624678986448
+    },
+    "SelectedPythonPath": "/home/root99/anaconda3/bin/python",
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44"
+      },
+      "expiry": 1622692876066
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44"
+      },
+      "expiry": 1622692876065
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf"
+      },
+      "expiry": 1622692876068
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('odu_django_included': venv)",
+        "hash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf-37f1fbf0990f580c57cca831dad5eabb"
+      },
+      "expiry": 1622692876052
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+          "fileHash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf",
+          "envName": "odu_django_included",
+          "type": "Venv",
+          "displayName": "Python 3.9.5 64-bit ('odu_django_included': venv)"
+        }
+      },
+      "expiry": 1622692876079
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44"
+      },
+      "expiry": 1622692876204
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('odu_django_included': venv)",
+        "hash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44-f7b78f7bbdb6431e378d845f6ae9f51c"
+      },
+      "expiry": 1622692876271
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568"
+      },
+      "expiry": 1623778087129
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568"
+      },
+      "expiry": 1623778087135
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568"
+      },
+      "expiry": 1623778087179
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)",
+        "hash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568-65e50ce1f7dad2b2f244ecef7984a928"
+      },
+      "expiry": 1623778087198
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+          "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+          "envName": "django-autoeval",
+          "type": "Venv",
+          "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)"
+        }
+      },
+      "expiry": 1623778087283
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568"
+      },
+      "expiry": 1623778087357
+    },
+    "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)",
+        "hash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568-0f61a690d5dd160e865b362f97e62b7a"
+      },
+      "expiry": 1623778087433
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7"
+      },
+      "expiry": 1624171966925
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7"
+      },
+      "expiry": 1624171967100
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7"
+      },
+      "expiry": 1624171967097
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('odu_django_included': venv)",
+        "hash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7-65ee2a47fd8fc7179d808cfd340aebfd"
+      },
+      "expiry": 1624171967067
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+          "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7",
+          "envName": "odu_django_included",
+          "type": "Venv",
+          "displayName": "Python 3.9.5 64-bit ('odu_django_included': venv)"
+        }
+      },
+      "expiry": 1624171967125
+    },
+    "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7"
+      },
+      "expiry": 1624171967335
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50"
+      },
+      "expiry": 1624172032819
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50"
+      },
+      "expiry": 1624172032816
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50"
+      },
+      "expiry": 1624172032822
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)",
+        "hash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50-a8c9df4934b166ab1f0205f0017499a7"
+      },
+      "expiry": 1624172032779
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+          "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+          "envName": "django-autoeval",
+          "type": "Venv",
+          "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)"
+        }
+      },
+      "expiry": 1624172032847
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50"
+      },
+      "expiry": 1624172033061
+    },
+    "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('django-autoeval': venv)",
+        "hash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50-44cb84ac2f7cfcc7a73ed34da9bd2d64"
+      },
+      "expiry": 1624172033249
+    },
+    "/home/root99/venvs/final_year_project_venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/final_year_project_venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+        "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d"
+      },
+      "expiry": 1627406904569
+    },
+    "/home/root99/venvs/final_year_project_venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/final_year_project_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+        "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d"
+      },
+      "expiry": 1627406904784
+    },
+    "/home/root99/venvs/final_year_project_venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+        "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d"
+      },
+      "expiry": 1628165130984
+    },
+    "/home/root99/venvs/final_year_project_venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d-ed588e77b3d6a9590fc26e20c48d7964"
+      },
+      "expiry": 1628187235077
+    },
+    "/home/root99/venvs/final_year_project_venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+          "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1628187235235
+    },
+    "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim",
+        "fileHash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690"
+      },
+      "expiry": 1624178015364
+    },
+    "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim",
+        "fileHash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690"
+      },
+      "expiry": 1624178015376
+    },
+    "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim",
+        "fileHash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690"
+      },
+      "expiry": 1624178015525
+    },
+    "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit ('test_nvim': venv)",
+        "hash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690-9f87b991287a14be73ca723ebc7b7639"
+      },
+      "expiry": 1624178024618
+    },
+    "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/Master/autoevaluation/test_nvim",
+          "fileHash": "50b840597d6fe5c64b744178a037f977efa644d05968fa69128640cf1e6def250208d4d4389337802e66cb0ec329aa5ea8aeba4ceabe9c7d02936f1eb3425690",
+          "envName": "test_nvim",
+          "type": "Venv",
+          "displayName": "Python 3.9.5 64-bit ('test_nvim': venv)"
+        }
+      },
+      "expiry": 1624178024657
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/root99/venvs/final_year_project_venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/root99/venvs/final_year_project_venv",
+      "fileHash": "21d4244e9ebaec50d3dc862d9baee6a39c413af4278074bddcb8b455558889d65c3695c025ce668e954d277be72e7cf35e1fb5b8c2a0f73722ac4a75d93bd49d",
+      "type": "Unknown"
+    },
+    "/home/root99/venvs/django-tries/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/django-tries/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/venvs/django-tries",
+        "fileHash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3"
+      },
+      "expiry": 1625019537073
+    },
+    "/home/root99/venvs/django-tries/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/django-tries/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/venvs/django-tries",
+        "fileHash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3"
+      },
+      "expiry": 1625019537077
+    },
+    "/home/root99/venvs/django-tries/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/django-tries/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/venvs/django-tries",
+        "fileHash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3"
+      },
+      "expiry": 1625019537081
+    },
+    "/home/root99/venvs/django-tries/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.5 64-bit",
+        "hash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3-4e1158a2b831c0b80c133794f4df1aa9"
+      },
+      "expiry": 1625019537344
+    },
+    "/home/root99/venvs/django-tries/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/venvs/django-tries/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.5-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.5-final"
+          },
+          "sysPrefix": "/home/root99/venvs/django-tries",
+          "fileHash": "e502decd608fb91208cdbaa528a508faa935df9b5c7b3f52644e9ac81149ebb7aa258ba291552914f4a20f92be906552d035aa3d7f9ceaf1ea3815ab458623e3",
+          "type": "Unknown",
+          "displayName": "Python 3.9.5 64-bit"
+        }
+      },
+      "expiry": 1625019537564
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56"
+      },
+      "expiry": 1625986976858
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56"
+      },
+      "expiry": 1625986976863
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56"
+      },
+      "expiry": 1625986976881
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+      "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+      "envName": "new_venv",
+      "type": "Venv"
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit ('new_venv': venv)",
+        "hash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56-29b86a8853881618d04d24331a3978d0"
+      },
+      "expiry": 1625986977124
+    },
+    "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+          "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+          "envName": "new_venv",
+          "type": "Venv",
+          "displayName": "Python 3.9.6 64-bit ('new_venv': venv)"
+        }
+      },
+      "expiry": 1625986977304
+    },
+    "/home/root99/anaconda3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "7501fb5f31b413de2e071813ca3c5f92605fefe155560e225ee2f1ac34225ae05d01e9eab27f2369781f4871b2ac529d31234ffed454a86cf6a4740b9106c279"
+      },
+      "expiry": 1626075201090
+    },
+    "/home/root99/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/root99/anaconda3",
+        "fileHash": "5637d4b089e0943647eece6df098a7c840f82002a71ad113de006069a1f0b1cb8f4d02878935531ee75e19848c868542ce810a957ae8f8d877cb8dc74c65b789"
+      },
+      "expiry": 1626075201094
+    },
+    "/home/root99/venvs/sig-language/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/sig-language/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/sig-language",
+        "fileHash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927"
+      },
+      "expiry": 1626141184656
+    },
+    "/home/root99/venvs/sig-language/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/sig-language/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/sig-language",
+        "fileHash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927"
+      },
+      "expiry": 1626141184658
+    },
+    "/home/root99/venvs/sig-language/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/root99/venvs/sig-language/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/venvs/sig-language",
+        "fileHash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927"
+      },
+      "expiry": 1626141184661
+    },
+    "/home/root99/venvs/sig-language/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927-694d2e712efdd6ad639cb8dadc3268da"
+      },
+      "expiry": 1626141184880
+    },
+    "/home/root99/venvs/sig-language/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927",
+        "info": {
+          "architecture": 3,
+          "path": "/home/root99/venvs/sig-language/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/root99/venvs/sig-language",
+          "fileHash": "dd7b9289a64bbe947fcd7b37fa318c02488a0253c49359a107955ada700497c6c5e4516bc4092c91c432d9b0e4c77cadabdf141f0864601cb22ca33ff6127927",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1626141185014
+    }
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/AutoEval": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d7d3d65e00ed0cf6327c13413c465d61": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d7d3d65e00ed0cf6327c13413c465d61": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/root99/anaconda3/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/AutoEval": {
+      "architecture": 3,
+      "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+      "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+      "envName": "new_venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/django-autoeval",
+        "fileHash": "f3b4b121f2818bea8fec51cced004439e11cf623ab86c0af498625adcb281b0ad978bc9dc59595ebd47703c81172a48da093f39c113fdc9fb58d2a076edfb4db",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/Master/AutoEval/new_venv",
+        "fileHash": "6c2cd89d7e0fc9ebbe2d0b0ba5eb712e55a913b2dea851a319c9dc025d289c33f2ae086fe7fc73d32fdc0f02402fa9b791e0b9542c90300b2553c9fc294b3c56",
+        "envName": "new_venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:7abe4a867a7feba32770ed13b3f1d03d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7abe4a867a7feba32770ed13b3f1d03d": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:c3b8702c23e94b06da8042b38cb8bd98": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c3b8702c23e94b06da8042b38cb8bd98": []
+  },
+  "coc-python|/home/root99": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/AutoEval (another copy)": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4c267448a3ed45bb4bfb117477ec5ac4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4c267448a3ed45bb4bfb117477ec5ac4": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/root99/anaconda3/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/AutoEval (another copy)": {
+      "architecture": 3,
+      "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+      "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44",
+      "envName": "odu_django_included",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "220845c4aac4e033d6aff580af6cd03ba43ac98e0fed2e54c232a4a875e98ce4c924c4089182889cc9d030d7662d19664d47468848d9688fa8e2bc3dc1a40ccf",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (another copy)/odu_django_included",
+        "fileHash": "0a9663391d471af378027055ad33207c5a7478018295448e86fed45022311ac332015c1e9e8b5b4fe216645609d17846b46b4e6a48a1836c523694577e5a2d44",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/root99/.config/qutebrowser": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:804401032708dceb2a4c39a899bb55df": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:804401032708dceb2a4c39a899bb55df": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/.config/qutebrowser": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/customization": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:989964a16e6b633ab7231b14eca2efbb": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:989964a16e6b633ab7231b14eca2efbb": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/customization": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/home/root99/Downloads/Wall": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:db3c0e0350d5d0ff8fd03b800a10ac29": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:db3c0e0350d5d0ff8fd03b800a10ac29": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/Downloads/Wall": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/autoevaluation": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7abe4a867a7feba32770ed13b3f1d03d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7abe4a867a7feba32770ed13b3f1d03d": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/root99/venvs/final_year_project_venv/bin/python"
+  },
+  "coc-python|/home/root99/dev/Auto Eval_raghu_old/AutoEval": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1929532b7dc4d950c84527710be74fca": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1929532b7dc4d950c84527710be74fca": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/Auto Eval_raghu_old/AutoEval": {
+      "architecture": 3,
+      "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+      "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+      "envName": "django-autoeval",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/Auto Eval_raghu_old/AutoEval/django-autoeval",
+        "fileHash": "bda485acead458bf4a03c4bb1d4dba5afecb04109a8004df57e0e48ec858c57d84f8fc348cce44f23f6eca4f0eeb178e5f4b9975295ce93c5b053b83ee467568",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/root99/dev/hashgraph": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:82de013d4927f6dad10060a85e4e9229": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:82de013d4927f6dad10060a85e4e9229": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/hashgraph": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/.config/qtile": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d81eb99e6f95b17e515a0fcc5c194d36": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d81eb99e6f95b17e515a0fcc5c194d36": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/.config/qtile": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/root99/anaconda3/bin/python"
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/AutoEval (copy)": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:830affffccc7b910e812205a25f47c85": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:830affffccc7b910e812205a25f47c85": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included",
+        "fileHash": "a17e70cd46460a36774059fb9d053792a4e17bbb2cc6a099fcbdc416771d45c66aa9a9c36081d57b4a22751440fb4f578adc1cf8fac033e5b59ce70ea22459c7",
+        "envName": "odu_django_included",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/root99/dev/heroku_deployments/AutoEval (copy)/odu_django_included/bin/python3.9"
+  },
+  "coc-python|/home/root99/dev/AutoEval": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:bdc39be4d7bdc03ff2ae82fda14490f6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:bdc39be4d7bdc03ff2ae82fda14490f6": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/root99/anaconda3/bin/python",
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/AutoEval": {
+      "architecture": 3,
+      "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+      "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+      "envName": "django-autoeval",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/root99/dev/AutoEval/django-autoeval/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.5-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.5-final"
+        },
+        "sysPrefix": "/home/root99/dev/AutoEval/django-autoeval",
+        "fileHash": "d0efd5b29d834d983b7d762475e3529d63a587c16049392ed39308151e84f3682c6deee5cfb9decc71adb646c5ad82be124ec91b7b61ae780deb898ae7b2fe50",
+        "envName": "django-autoeval",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/root99/study/assignments/bda/codes": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a3a10b252f3d6460c5443a59c1736570": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a3a10b252f3d6460c5443a59c1736570": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/study/assignments/bda/codes": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/backup": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9c58df00f80148cb08fef516f52afd32": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9c58df00f80148cb08fef516f52afd32": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/backup": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/AutoEval_local_try": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c3b8702c23e94b06da8042b38cb8bd98": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c3b8702c23e94b06da8042b38cb8bd98": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/AutoEval_local_try": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/model_autoeval": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ee2846a3dd9f4b8b421835386e726c6e": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ee2846a3dd9f4b8b421835386e726c6e": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/model_autoeval": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/root99/venvs/final_year_project_venv/bin/python"
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/model_autoeval/AutoEval": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:925935d3e287ef357e5840f48cafbbf0": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:925935d3e287ef357e5840f48cafbbf0": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/model_autoeval/AutoEval": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/django_tries": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1df3e6c6e6bf836ed088e0fc93b12544": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1df3e6c6e6bf836ed088e0fc93b12544": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/django_tries": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/Downloads/seminar/project_example/HashGraph_Explained-master": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:479765dd0b3daeadce21e88341ed054c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:479765dd0b3daeadce21e88341ed054c": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/Downloads/seminar/project_example/HashGraph_Explained-master": {
+      "architecture": 3,
+      "path": "/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.5-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.5-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "06a31a8c9dbcb3e6338e01a68718d7fecb2d853f5621a2d8869b69463c9260ddcddc5d89c5c38b24652f39c1870c7d6c1917513c615f2f53fb40011ea2f14a43",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/brest_cancer_prediction": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:85eabe6979fd88c9e212fb3f75fa77aa": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:85eabe6979fd88c9e212fb3f75fa77aa": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/brest_cancer_prediction": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/Tries/pickletry": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9a3faab950f0bc6030dbb65f45763f08": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9a3faab950f0bc6030dbb65f45763f08": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/Tries/pickletry": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/.config/ranger/colorschemes": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:57e71acdb901a0a3011e24f7f05ebd11": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:57e71acdb901a0a3011e24f7f05ebd11": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/.config/ranger/colorschemes": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/Downloads/final_project/presentations/Demo codes": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7f50d4ee3a564645cca69af509701531": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7f50d4ee3a564645cca69af509701531": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/Downloads/final_project/presentations/Demo codes": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/dev/heroku_deployments/Master/project/autoevaluation": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8391fc5c33b0e728e52b6d8ab8155b08": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8391fc5c33b0e728e52b6d8ab8155b08": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/dev/heroku_deployments/Master/project/autoevaluation": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/root99/manual_installations_arch/gruvbox-factory": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:bbe0723a81f0f4c6a93d19c0e9690a37": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:bbe0723a81f0f4c6a93d19c0e9690a37": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/root99/manual_installations_arch/gruvbox-factory": {
+      "architecture": 3,
+      "path": "/sbin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "80a734bafe09bd2520fd93207452e4582a406e10052a0399eac81ee90cda62a2609358ded0bce7c091c7e33d6eccdccc8b62c430a5b763a2e932a511b126cfb6",
+      "type": "Unknown",
+      "displayName": "Python 3.9.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

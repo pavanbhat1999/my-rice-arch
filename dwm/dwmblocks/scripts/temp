@@ -1,0 +1,2 @@
+#! /bin/bash
+sensors | awk FNR==21'{print $2}'

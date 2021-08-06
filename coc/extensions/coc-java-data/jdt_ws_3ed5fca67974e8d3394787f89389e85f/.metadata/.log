@@ -1,0 +1,36 @@
+!SESSION 2021-08-02 11:41:18.851 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.12
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/root99/.config/coc/extensions/coc-java-data/jdt_ws_3ed5fca67974e8d3394787f89389e85f
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.234
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.449
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.499
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.514
+!MESSAGE Initializing Java Language Server 1.2.0.202106032126
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.565
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.565
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.630
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.711
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:22.930
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-08-02 11:41:24.173
+!MESSAGE Importing Maven project(s)

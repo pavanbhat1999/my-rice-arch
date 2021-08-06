@@ -1,0 +1,4 @@
+#! /bin/bash
+
+bri="$(xbacklight)";
+echo -e $bri | awk '{print int($1+0.5)}';
