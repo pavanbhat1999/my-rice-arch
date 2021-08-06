@@ -1,7 +1,0 @@
-2021-08-02 11:41:22,707 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
-2021-08-02 11:41:25,759 [Worker-0: Initialize Workspace] WARN  o.e.m.c.i.markers.MarkerUtils - Could not find OSGI service for org.eclipse.m2e.core.internal.markers.IEditorMarkerService
-2021-08-02 11:41:28,070 [Worker-0: Initialize Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ /home/root99/Tries/demo/pom.xml.
-2021-08-02 11:41:29,147 [Worker-0: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
-2021-08-02 11:41:29,148 [Worker-0: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
-2021-08-02 11:41:29,173 [Worker-0: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
-2021-08-02 11:41:29,186 [Worker-0: Initialize Workspace] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
