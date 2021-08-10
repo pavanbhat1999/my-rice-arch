@@ -70,8 +70,6 @@ alt + s
     tdrop -ma -w -4  -s dropdown kitty
 alt + x
    polybar-msg cmd toggle
-super + alt + a 
-    kitty $HOME/scripts/w2anime
 #
 # bspwm hotkeys
 #
