@@ -63,3 +63,5 @@ alt + x
    sh $HOME/manual_installations_arch/pavanbhat1999-dwm/my-status/status.sh
 alt + z
     sh $HOME/manual_installations_arch/pavanbhat1999-dwm/my-status/empty-status.sh
+super + shift + ctrl + e 
+    killall xinit
