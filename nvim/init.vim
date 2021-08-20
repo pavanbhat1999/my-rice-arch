@@ -35,7 +35,8 @@ Plug 'psliwka/vim-smoothie'
 "status line
 Plug 'vim-airline/vim-airline'
 "css-color support
-Plug 'ap/vim-css-color'
+"Plug 'ap/vim-css-color'
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 "Plug 'glepnir/galaxyline.nvim' , {'branch': 'main'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
@@ -107,6 +108,7 @@ set termguicolors
 "let g:gruvbox_italicize_strings = 1
 colorscheme gruvbox8_hard
 set background=dark
+let g:Hexokinase_highlighters = [ 'backgroundfull' ]
 hi Normal guibg=NONE ctermbg=NONE 
 ""hi DiffAdd gui=NONE guifg=green guibg=black
 ">>>>>>>>>custom key mappings start>>>>>>>>"

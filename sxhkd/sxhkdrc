@@ -25,7 +25,7 @@ super + shift + f
 super + n
     nautilus
 super + shift + n 
-    sudo dolphine
+    sudo nautilus
 super + ctrl + n 
     pcmanfm
 super + shift + ctrl + l   

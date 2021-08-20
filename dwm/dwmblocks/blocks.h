@@ -12,7 +12,7 @@ static const Block blocks[] = {
 	
 	{" 💻 ", "$HOME/.config/dwm/dwmblocks/scripts/memory",	        6,		            1},
 
-	{" 🔊 ", "$HOME/.config/dwm/dwmblocks/scripts/volume",			2,		            10},
+	{" 🔊 ", "$HOME/.config/dwm/dwmblocks/scripts/volume",			1,		            10},
 
     {"🔋","cat /sys/class/power_supply/BAT0/capacity",2,0},
     {"🌞","$HOME/.config/dwm/dwmblocks/scripts/brightness",1,0},

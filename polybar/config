@@ -269,7 +269,8 @@ label-urgent = %name%!
 label-urgent-background = ${colors.alert}
 label-urgent-padding = 5
 
-label-empty = %name%
+;label-empty = %name%
+label-empty = 
 label-empty-foreground = ${colors.foreground-alt}
 label-empty-padding = 5
 
