@@ -48,7 +48,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec kitty
 bindsym $mod+Shift+Return exec i3-sensible-terminal
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -149,6 +149,8 @@ bindsym $mod+7 workspace number $ws7
 bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
+bindsym $mod+bracketright workspace next
+bindsym $mod+bracketleft workspace prev 
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace  $ws1
@@ -205,8 +207,8 @@ bindsym $mod+shift+b exec brave-nightly
 #starting code
 bindsym $mod+ctrl+shift+c exec code
 #start wallpaer
-#exec feh --randomize --bg-fill /home/root99/Downloads/Wall
-exec --no-startup-id $HOME/.config/i3/wallpaper.sh
+exec feh --randomize --bg-fill /home/root99/Downloads/Wall
+#exec --no-startup-id $HOME/.config/i3/wallpaper.sh
 #exec --no-startup-id $HOME/.config/i3/wallpaper_nitrogen.sh
 #starting picom compositor for transperancy
 #Use ibhammmgva fork for blur
