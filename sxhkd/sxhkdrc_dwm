@@ -14,11 +14,11 @@ super + shift + b
 super + shift + f   
     firefox
 super + n
-    nautilus
-super + shift + n 
-    sudo dolphine
-super + ctrl + n 
     pcmanfm
+super + shift + n 
+    sudo pcmanfm
+super + ctrl + n 
+    dolphin
 super + shift + ctrl + l   
     i3lock-fancy
 XF86AudioRaiseVolume 
@@ -58,7 +58,7 @@ alt + k
 alt + m
     kitty -e mpd && kitty -e ncmpcpp
 alt + s
-    tdrop -ma -w -4  -s dropdown kitty
+    tdrop -ma -w -4 -h -2 -s dropdown kitty
 alt + x
    sh $HOME/manual_installations_arch/pavanbhat1999-dwm/my-status/status.sh
 alt + z

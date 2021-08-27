@@ -81,7 +81,7 @@ enable-ipc = true
 width = 30%
 height = 30
 offset-x = 70%
-modules-right =crypto network xbacklight pulseaudio filesystem battery temperature date 
+modules-right = network xbacklight pulseaudio filesystem battery temperature date 
 
 tray-position = right
 tray-padding = 1
@@ -269,8 +269,8 @@ label-urgent = %name%!
 label-urgent-background = ${colors.alert}
 label-urgent-padding = 5
 
-;label-empty = %name%
-label-empty = 
+label-empty = %name%
+;label-empty = 
 label-empty-foreground = ${colors.foreground-alt}
 label-empty-padding = 5
 

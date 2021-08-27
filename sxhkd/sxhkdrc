@@ -23,9 +23,9 @@ super + shift + b
 super + shift + f   
     firefox
 super + n
-    nautilus
+    pcmanfm
 super + shift + n 
-    sudo nautilus
+    sudo pcmanfm
 super + ctrl + n 
     pcmanfm
 super + shift + ctrl + l   

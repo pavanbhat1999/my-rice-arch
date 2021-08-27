@@ -2,7 +2,7 @@
 #all programs exe
 pgrep -x sxhkd > /dev/null || sxhkd &
 picom --backend glx --experimental-backends --blur-method dual_kawase & 
-devilspie &
+#devilspie &
 #sh /home/root99/.config/i3/wallpaper.sh &
 #bgchd -dir /home/root99/Downloads/Wall -bcknd feh -intv 30s -rpl &
 #feh -z --bg-scale --no-fehbg /home/root99/Downloads/Wall/sung.jpg
