@@ -5,8 +5,6 @@ nnoremap <leader>- :set ri<cr>80A-<esc>81<bar>d$0:set nori<cr>
 source $HOME/.config/nvim/vim-scripts/plugins.vim
 source $HOME/.config/nvim/vim-scripts/defalts.vim
 source $HOME/.config/nvim/vim-scripts/color-settings.vim
-"set signcolumn=number
-hi signcolumn ctermbg=NONE guibg=NONE
 source $HOME/.config/nvim/vim-scripts/key-mappings.vim
 source $HOME/.config/nvim/vim-scripts/auto-cmd.vim
 "-------------------------------------------------------------------------------
@@ -28,6 +26,7 @@ luafile $HOME/.config/nvim/lua/bash-lsp.lua
 "luafile $HOME/.config/nvim/lua/treesitter.lua
 "inoremap <silent><expr> <CR> cmp#confirm({ 'keys': '<CR>', 'select': v:true })
 "-------------------------------------------------------------------------------
+"Autocmd for source init.vim
 "Autocmd for g++
 autocmd BufWritePost *11.cpp !g++ % -lGL -lcrypto -lglut -lGLU &&  ./a.out
 "autocmd filetype cpp nnoremap <f5> :w <bar> !g++ % -lcrypto -lGL -lglut -lGLU -o %:r && ./%:r <cr> 
