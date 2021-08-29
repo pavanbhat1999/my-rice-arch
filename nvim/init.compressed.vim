@@ -5,8 +5,6 @@ nnoremap <leader>- :set ri<cr>80A-<esc>81<bar>d$0:set nori<cr>
 source $HOME/.config/nvim/vim-scripts/plugins.vim
 source $HOME/.config/nvim/vim-scripts/defalts.vim
 source $HOME/.config/nvim/vim-scripts/color-settings.vim
-"set signcolumn=number
-hi signcolumn ctermbg=NONE guibg=NONE
 source $HOME/.config/nvim/vim-scripts/key-mappings.vim
 source $HOME/.config/nvim/vim-scripts/auto-cmd.vim
 "-------------------------------------------------------------------------------
@@ -34,3 +32,5 @@ autocmd BufWritePost *11.cpp !g++ % -lGL -lcrypto -lglut -lGLU &&  ./a.out
 "Autocmd for latex
 autocmd BufWritePost *.tex !pdflatex %
 "-------------------------------------------------------------------------------
+"set signcolumn=number
+hi signcolumn ctermbg=NONE guibg=NONE

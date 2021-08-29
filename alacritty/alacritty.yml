@@ -273,7 +273,7 @@ cursor:
   #   - ▇ Block
   #   - _ Underline
   #   - | Beam
-  style: Beam
+  style: Block
   # Vi mode cursor style
   #
   # If the vi mode cursor style is `None` or not specified, it will fall back to
