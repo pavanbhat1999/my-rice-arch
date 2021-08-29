@@ -24,8 +24,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "surroundings
 Plug 'tpope/vim-surround'
-"color-scheme
-Plug 'tpope/vim-vividchalk'
 "indentation guidelines
 "Plug 'nathanaelkane/vim-indent-guides'
 Plug 'Yggdroot/indentLine'
@@ -37,6 +35,8 @@ Plug 'vim-airline/vim-airline'
 "css-color support
 "Plug 'ap/vim-css-color'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+"color picker for vim
+Plug 'KabbAmine/vCoolor.vim'
 "Plug 'glepnir/galaxyline.nvim' , {'branch': 'main'
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
@@ -46,8 +46,6 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 "auto closing tags - web development
 Plug 'alvan/vim-closetag'
-"color picker for vim
-Plug 'KabbAmine/vCoolor.vim'
 "notes for vim
 Plug 'vimwiki/vimwiki'
 "easr align
