@@ -18,6 +18,7 @@ set noswapfile
 set undodir=~/.config/nvim/undo
 set undofile
 set incsearch
+set exrc
 autocmd FileType tex set spell
 highlight LineNr ctermfg=grey
 "hi Pmenu ctermfg=250 ctermbg=235  guifg=#bcbcbc guibg=#262626

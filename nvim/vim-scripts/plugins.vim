@@ -35,7 +35,7 @@ Plug 'onsails/lspkind-nvim'
 "surroundings
 Plug 'tpope/vim-surround'
 "color-scheme
-Plug 'tpope/vim-vividchalk'
+"Plug 'tpope/vim-vividchalk'
 "indentation guidelines
 "Plug 'nathanaelkane/vim-indent-guides'
 Plug 'Yggdroot/indentLine'
@@ -65,5 +65,5 @@ Plug 'junegunn/vim-easy-align'
 "tree sitter for better syntax highlighting
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 "latex completion
-Plug 'lervag/vimtex'
+Plug 'lervag/vimtex',{'do':'latex'}
 call plug#end()

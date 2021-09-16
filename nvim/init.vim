@@ -7,6 +7,7 @@ source $HOME/.config/nvim/vim-scripts/defalts.vim
 source $HOME/.config/nvim/vim-scripts/color-settings.vim
 source $HOME/.config/nvim/vim-scripts/key-mappings.vim
 source $HOME/.config/nvim/vim-scripts/auto-cmd.vim
+let g:airline#extensions#tabline#enabled = 1
 "-------------------------------------------------------------------------------
 "Auto complettion using coc
 "source $HOME/.vim/plug-config/coc.vim
@@ -27,6 +28,8 @@ luafile $HOME/.config/nvim/lua/bash-lsp.lua
 "inoremap <silent><expr> <CR> cmp#confirm({ 'keys': '<CR>', 'select': v:true })
 "-------------------------------------------------------------------------------
 "Autocmd for source init.vim
+"Auto cmd for java
+autocmd BufWritePost *.java !javac %
 "Autocmd for g++
 autocmd BufWritePost *11.cpp !g++ % -lGL -lcrypto -lglut -lGLU &&  ./a.out
 "autocmd filetype cpp nnoremap <f5> :w <bar> !g++ % -lcrypto -lGL -lglut -lGLU -o %:r && ./%:r <cr> 
