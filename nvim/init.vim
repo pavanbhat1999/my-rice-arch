@@ -24,7 +24,8 @@ nnoremap <silent> ]g <cmd>lua vim.lsp.diagnostic.goto_next()<CR>
 luafile $HOME/.config/nvim/lua/cmp-config.lua
 luafile $HOME/.config/nvim/lua/python-lsp.lua
 luafile $HOME/.config/nvim/lua/bash-lsp.lua
-"luafile $HOME/.config/nvim/lua/treesitter.lua
+luafile $HOME/.config/nvim/lua/lua-line.lua
+luafile $HOME/.config/nvim/lua/treesitter.lua
 "inoremap <silent><expr> <CR> cmp#confirm({ 'keys': '<CR>', 'select': v:true })
 "-------------------------------------------------------------------------------
 "Autocmd for source init.vim

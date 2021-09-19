@@ -13,7 +13,7 @@ super + shift + Return
 super + r
 	rofi -show drun -show-icons -font "Hack 18"
 super + d 
-    dmenu_run
+    dmenu_run -nb '#272727' -sf '#1e1e1e' -sb '#A3AD48' -nf '#C5D71D'
 super + v
     rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -font "Hack 18"
 alt + n 

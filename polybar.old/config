@@ -20,9 +20,9 @@
 ;background = ${xrdb:color0:#222}
 ;background = #000000,
 ;gruvbox
-background = #272727
+background = #282828
 ;background = #00000000
-background-alt = #141313
+background-alt = #001e26
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
@@ -32,7 +32,7 @@ alert = #bd2c40
 
 [bar/bottom]
 ;monitor = ${env:MONITOR:HDMI-1}
-width = 70%
+width = 50%
 height = 30
 ;offset-x = 1%
 ;offset-y = 1%
@@ -40,7 +40,7 @@ radius = 6.0
 fixed-center = false
 bottom = false
 ;background = ${colors.background}
-background = #272727
+background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 3
@@ -78,9 +78,9 @@ cursor-click = pointer
 cursor-scroll = ns-resize
 [bar/right]
 enable-ipc = true
-width = 30%
+width = 50%
 height = 30
-offset-x = 70%
+offset-x = 50%
 modules-right = network xbacklight pulseaudio filesystem battery temperature date 
 
 tray-position = right
@@ -93,8 +93,7 @@ tray-scale = 1.0
 radius = 6.0
 fixed-center = false
 bottom = false
-;background = ${colors.background}
-background = #272727
+background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 3
@@ -118,7 +117,9 @@ font-4 = siji:pixelsize=8;
 
 wm-restack = bspwm
 ;wm-restack = i3
-
+;separator = 
+separator-foreground = #742020
+;separator-background = #0D0909
 ;override-redirect = true
 
 ;scroll-up = bspwm-desknext
@@ -247,13 +248,13 @@ label-unmounted-foreground = #55
 type = internal/network
 interface = wlp3s0
 interval = 1.0
-label-connected = "  %downspeed%   %upspeed%  "
+label-connected = " 🔻  %downspeed%   🔺 %upspeed%  "
 ;label-connected = "<label-down> <label-up>"
 ;label-down = %downspeed
 ;label-up = %upspeed%
 label-disconnected = disconnected
 ;label-connected-underline = ${colors.secondary}
-;label-connected-background = #00FF00
+;label-connected-background = #346734
 [module/bspwm]
 type = internal/bspwm
 
