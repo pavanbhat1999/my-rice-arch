@@ -67,7 +67,7 @@ alt + k
 alt + m
     kitty -e mpd && kitty -e ncmpcpp
 alt + s
-    tdrop -ma -w -4  -s dropdown kitty
+    tdrop -ma -w -4  -s dropdown alacritty
 alt + x
    polybar-msg cmd toggle
 #

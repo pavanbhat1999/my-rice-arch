@@ -10,7 +10,7 @@
 configuration {
 	font:							"Noto Sans Bold 10";
     show-icons:                     true;
-	icon-theme: 					"Papirus";
+	icon-theme: 					"Solarized";
     display-drun: 					"";
     drun-display-format:            "{name}";
     disable-history:                false;
@@ -20,10 +20,10 @@ configuration {
 }
 
 * {
-    background:                     #00000000;
-    background-alt:              	#00000000;
-    background-bar:                 #f2f2f215;
-    foreground:                     #f2f2f2EE;
+    background:                     #164E67;
+    /*background-alt:              	#00000000;*/
+    /*background-bar:                 #f2f2f215;*/
+    /*foreground:                     #f2f2f2EE;*/
     accent:			            	#3DAEE966;
 }
 

@@ -1,6 +1,6 @@
 set termguicolors
 "colorscheme onedark
-colorscheme gruvbox8
+colorscheme solarized8_flat
 set background=dark
 let g:Hexokinase_highlighters = [ 'backgroundfull' ]
 hi Normal guibg=NONE ctermbg=NONE 

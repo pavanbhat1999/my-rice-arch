@@ -4,4 +4,4 @@ configuration {
   show-icons:         true;
   icon-theme:         "solarized";
 }
-@import "/usr/share/rofi/themes/Monokai.rasi"
+@import "/usr/share/rofi/themes/solarized.rasi"

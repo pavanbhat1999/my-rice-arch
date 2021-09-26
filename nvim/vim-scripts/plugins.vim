@@ -43,8 +43,8 @@ Plug 'Yggdroot/indentLine'
 "Plug 'wfxr/minimap.vim'
 Plug 'psliwka/vim-smoothie'
 "status line
-"Plug 'vim-airline/vim-airline'
-Plug 'hoob3rt/lualine.nvim'
+Plug 'vim-airline/vim-airline'
+"Plug 'hoob3rt/lualine.nvim'
 "css-color support
 "Plug 'ap/vim-css-color'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
@@ -67,6 +67,8 @@ Plug 'junegunn/vim-easy-align'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 "Color scheme community addition
 Plug 'lifepillar/vim-gruvbox8'
+Plug 'lifepillar/vim-solarized8'
+"Plug 'ishan9299/nvim-solarized-lua'
 Plug 'dracula/vim'
 "latex completion
 Plug 'lervag/vimtex',{'do':'latex'}

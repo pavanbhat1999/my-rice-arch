@@ -10,7 +10,7 @@ nitrogen --restore &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 sh /home/root99/.config/polybar.old/launch.sh &
 xss-lock --transfer-sleep-lock -- i3lock-fancy -g & 
-xautolock -time 60  -locker "systemctl suspend" -detectsleep &
+xautolock -time 15  -locker "systemctl suspend" -detectsleep &
 nm-applet &
 dunst &
 xfce4-power-manger &
@@ -34,6 +34,7 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a Brave-browser-nightly desktop='^2'
 bspc rule -a Org.gnome.Nautilus desktop='^3'
 bspc rule -a Pcmanfm desktop='^3'
+bspc rule -a ranger desktop='^3'
 bspc rule -a Code desktop='^4'
 #bspc rule -a Spotify desktop='^6'
 bspc rule -a gimp desktop='^8'

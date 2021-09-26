@@ -22,9 +22,9 @@ configuration {
 /* -- Classical -- */
 * {
     background:                     #27639AFF;
-    background-alt:              	#00000000;
-    background-bar:                 #f2f2f240;
-    foreground:                     #f2f2f2EE;
+    /*background-alt:              	#24595D;*/
+    /*background-bar:                 #f2f2f240;*/
+    /*foreground:                     #f2f2f2EE;*/
     accent:			            	#3DAEE966;
 }
 
