@@ -1,56 +1,65 @@
 #
 # wm independent hotkeys
+#
+# make sxhkd reload its configuration files:
 
+# terminal emulator
+#super + Return
+    #kitty
+#secondary terminal
+super + shift + Return
+    alacritty
+# program launcher
 super + r
-rofi -show drun -show-icons -font "Hack 18"
-super + d 
-dmenu_run
+	rofi -show drun -show-icons -font "Hack 18"
+#super + d 
+    #dmenu_run -nb '#272727' -sf '#1e1e1e' -sb '#A3AD48' -nf '#C5D71D'
 super + v
-rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -font "Hack 18"
+    rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -font "Hack 18"
 alt + n 
-kitty -e nmtui
+    kitty -e nmtui
 super + shift + b
-brave-browser-nightly
+    brave-browser-nightly
 super + shift + f   
-firefox
+    firefox
 super + n
-pcmanfm
+    pcmanfm
 super + shift + n 
-sudo pcmanfm
+    sudo pcmanfm
 super + ctrl + n 
-dolphin
+    pcmanfm
 super + shift + ctrl + l   
-i3lock-fancy
+    i3lock-fancy
 XF86AudioRaiseVolume 
-pactl set-sink-volume @DEFAULT_SINK@ +5%
+    pactl set-sink-volume @DEFAULT_SINK@ +5%
 XF86AudioLowerVolume
-pactl set-sink-volume @DEFAULT_SINK@ -5% 
+    pactl set-sink-volume @DEFAULT_SINK@ -5% 
 XF86AudioMute 
-pactl set-sink-mute @DEFAULT_SINK@ toggle
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
 alt+comma
-sh /home/root99/.config/rofi/launchers/misc/launcher.sh
+    sh /home/root99/.config/rofi/launchers/misc/launcher.sh
 alt + p 
-sh /home/root99/.config/rofi/powermenu/powermenu.sh
+    sh /home/root99/.config/rofi/powermenu/powermenu.sh
 alt + space
-rofi -show combi
+    rofi -show combi
 super + ctrl + shift + x
-code
+    code
 super + shift + ctrl + r
-i3-nagbar -t warning -m 'do you want to reboot' -B 'Yes, reboot' reboot
+    i3-nagbar -t warning -m 'do you want to reboot' -B 'Yes, reboot' reboot
 XF86MonBrightnessUp 
-xbacklight -inc 5         
+    xbacklight -inc 5         
 XF86MonBrightnessDown
-xbacklight -dec 5
+    xbacklight -dec 5
 super+y 
-import -window root ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
+    import -window root ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
 super+x 
-import ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
+    import ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
 super + alt + space
-kitty -e ranger 
+    kitty -e ranger 
 super + shift + r
-pkill -USR1 -x sxhkd
+	pkill -USR1 -x sxhkd
 alt + v
-kitty -e nvim /home/root99/.config/nvim/init.vim
+    kitty -e nvim /home/root99/.config/nvim/init.vim
 alt + b
     kitty -e nvim /home/root99/.config/bspwm/bspwmrc
 alt + k 
@@ -58,10 +67,10 @@ alt + k
 alt + m
     kitty -e mpd && kitty -e ncmpcpp
 alt + s
-    tdrop -ma -w -4 -h -2 -s dropdown kitty
+    tdrop -ma -w -4  -s dropdown alacritty
 alt + x
-   sh $HOME/manual_installations_arch/suckless/pavanbhat1999-dwm/my-status/status.sh
-alt + z
-    sh $HOME/manual_installations_arch/suckless/pavanbhat1999-dwm/my-status/empty-status.sh
-super + shift + ctrl + e 
+   polybar-msg cmd toggle
+super + a 
+    kitty -e w2anime
+super + shift + ctrl + e
     killall xinit
