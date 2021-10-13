@@ -1,21 +1,12 @@
-#
 # wm independent hotkeys
-#
-# make sxhkd reload its configuration files:
-
-# terminal emulator
+super + shift + r
+	pkill -USR1 -x sxhkd
 super + Return
     kitty
-#secondary terminal
 super + shift + Return
     alacritty
-# program launcher
-super + r
-	rofi -show drun -show-icons -font "Hack 18"
 super + d 
     dmenu_run -nb '#272727' -sf '#1e1e1e' -sb '#A3AD48' -nf '#C5D71D'
-super + v
-    rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -font "Hack 18"
 alt + n 
     kitty -e nmtui
 super + shift + b
@@ -36,12 +27,20 @@ XF86AudioLowerVolume
     pactl set-sink-volume @DEFAULT_SINK@ -5% 
 XF86AudioMute 
     pactl set-sink-mute @DEFAULT_SINK@ toggle
+#-------------------------------------------------------------------------------
+super + r
+	rofi -show drun -show-icons -font "Hack 18"
+super + v
+    rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}' -font "Hack 18"
 alt+comma
-    sh /home/root99/.config/rofi/launchers/misc/launcher.sh
+    sh $HOME/.config/rofi/launchers/misc/launcher.sh
 alt + p 
-    sh /home/root99/.config/rofi/powermenu/powermenu.sh
+    sh $HOME/.config/rofi/powermenu/powermenu.sh
+alt + m 
+    sh $HOME/bin/rofi-beats
 alt + space
     rofi -show combi
+#-------------------------------------------------------------------------------
 super + ctrl + shift + x
     code
 super + shift + ctrl + r
@@ -56,23 +55,25 @@ super+x
     import ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
 super + alt + space
     kitty -e ranger 
-super + shift + r
-	pkill -USR1 -x sxhkd
 alt + v
     kitty -e nvim /home/root99/.config/nvim/init.vim
 alt + b
     kitty -e nvim /home/root99/.config/bspwm/bspwmrc
 alt + k 
     kitty -e nvim /home/root99/.config/sxhkd/sxhkdrc
-alt + m
-    kitty -e mpd && kitty -e ncmpcpp
+#alt + m
+    #kitty -e mpd && kitty -e ncmpcpp
 alt + s
     tdrop -ma -w -4  -s dropdown alacritty
 alt + x
    polybar-msg cmd toggle
-#
+super + a 
+    kitty -e w2anime
+super + w
+    change-wallpaper.sh
+#-------------------------------------------------------------------------------
 # bspwm hotkeys
-#
+#-------------------------------------------------------------------------------
 #super + h
     #bspc rule -a '*:*' split_dir=east
 #super + v

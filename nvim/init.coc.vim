@@ -1,5 +1,7 @@
 "for opening in full window
 autocmd VimEnter * :silent exec "!kill -s SIGWINCH $PPID"
+nnoremap <leader>- :set ri<cr>80A-<esc>81<bar>d$0:set nori<cr>
+"-------------------------------------------------------------------------------
 ">>>>>plug start>>>>>>>> 
 call plug#begin('~/.vim/plugged')
 Plug 'mbbill/undotree'
@@ -25,7 +27,8 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 "surroundings
 Plug 'tpope/vim-surround'
 "color-scheme
-Plug 'tpope/vim-vividchalk'
+Plug 'lifepillar/vim-gruvbox8'
+Plug 'lifepillar/vim-solarized8'
 "indentation guidelines
 "Plug 'nathanaelkane/vim-indent-guides'
 Plug 'Yggdroot/indentLine'
@@ -59,57 +62,22 @@ Plug 'lervag/vimtex'
 call plug#end()
 ">>>>>>>>>>plug end >>>>>>>>>>>>>
 ">>>>>>>>>>>>sane defaults>>>>>>>>>>>>>>>>>
-syntax on
-
-let mapleader=" "
-
-set clipboard=unnamedplus
-set nohlsearch
-set tabstop=4 softtabstop=4
-set shiftwidth=4
-set relativenumber
-set number
-set number relativenumber
-set expandtab
-set smartindent
-set smartcase
-set ignorecase
-set nobackup
-set noswapfile
-set undodir=~/.config/nvim/undo
-set undofile
-set incsearch
-autocmd FileType tex set spell
-highlight LineNr ctermfg=grey
-"hi Pmenu ctermfg=250 ctermbg=235  guifg=#bcbcbc guibg=#262626
-"hi PmenuSel ctermfg=250 ctermbg=131  guifg=#bcbcbc guibg=#af5f5f
-set hidden  "hides buffer instead of closing"
-set mouse=a
-set updatetime=100 "updating git gutter fast"
-"""""too Importnat cross platfomr file saving"""""
-set nofixendofline
-hi signcolumn ctermbg=NONE guibg=NONE
-"set noshowmode
-"set guifont=*
-"set autochdir
-"set scrolloff=18
-"let g:indent_guides_auto_colors = 0
-"autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=grey
-"autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=7
+source $HOME/.config/nvim/vim-scripts/defalts.vim
 
 ">>>>>>>>>>>>>>>>>>>>>adding colorscheme
-set termguicolors
-"let g:lightline = {
-"\ 'colorscheme': 'jellybeans',
-"\ }
-"colorscheme onedark
-"colorscheme vividchalk
-"let g:gruvbox_transp_bg = 1
-"let g:gruvbox_italicize_strings = 1
-colorscheme gruvbox8_hard
-set background=dark
-let g:Hexokinase_highlighters = [ 'backgroundfull' ]
-hi Normal guibg=NONE ctermbg=NONE 
+source $HOME/.config/nvim/vim-scripts/color-settings.vim
+"set termguicolors
+""let g:lightline = {
+""\ 'colorscheme': 'jellybeans',
+""\ }
+""colorscheme onedark
+""colorscheme vividchalk
+""let g:gruvbox_transp_bg = 1
+""let g:gruvbox_italicize_strings = 1
+"colorscheme solarized8_flat
+"set background=dark
+"let g:Hexokinase_highlighters = [ 'backgroundfull' ]
+"hi Normal guibg=NONE ctermbg=NONE 
 ""hi DiffAdd gui=NONE guifg=green guibg=black
 ">>>>>>>>>custom key mappings start>>>>>>>>"
 nnoremap <f1> :set hls <CR>
@@ -127,7 +95,8 @@ nnoremap <leader>j :wincmd j <CR>
 nnoremap <leader>k :wincmd k <CR>
 nnoremap <leader>l :wincmd l <CR>
 "nnoremap <leader>f2 :set autochdir <CR>
-noremap<C-s> <ESC> :w <CR>
+inoremap <C-s>  <ESC>:w <CR>
+nnoremap <C-s> :w <CR>
 "fuzzy finding mappings 
 nnoremap<C-t> :Files <CR>
 nnoremap<C-p> :Rg <CR>
@@ -196,6 +165,7 @@ require'nvim-treesitter.configs'.setup {
 }
 EOF
 
+luafile $HOME/.config/nvim/lua/treesitter.lua
 "Autocmd for g++
 autocmd BufWritePost *11.cpp !g++ % -lGL -lcrypto -lglut -lGLU &&  ./a.out
 "autocmd filetype cpp nnoremap <f5> :w <bar> !g++ % -lcrypto -lGL -lglut -lGLU -o %:r && ./%:r <cr> 
