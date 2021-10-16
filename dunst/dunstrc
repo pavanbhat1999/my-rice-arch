@@ -52,3 +52,6 @@ timeout = 0
 background = "#B10F29"
 foreground = "#93a1a1"
 frame_color = "#ff7043"
+[play_sound]
+    summary="*"
+    script= /home/root99/bin/CustomScripts/noti.sh
