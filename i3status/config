@@ -8,12 +8,12 @@ general {
 	    color_bad = '#ba5e57'
 }
 
-order += "load"
+/*order += "load"*/
 order += "cpu_temperature 0"
 order += "disk /"
 order += "disk /home"
 /*order += "ethernet enp2s0"*/
-order += "wireless wlp3s0"
+/*order += "wireless wlp3s0"*/
 order += "volume master"
 order += "battery 0"
 order += "tztime local"
