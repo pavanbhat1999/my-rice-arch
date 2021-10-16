@@ -13,11 +13,11 @@ xss-lock --transfer-sleep-lock -- i3lock-fancy -g &
 xautolock -time 15  -locker "systemctl suspend" -detectsleep &
 nm-applet &
 dunst &
-xfce4-power-manger &
+#xfce4-power-manger &
 greenclip daemon &
 xsetroot -cursor_name left_ptr &
 #btops &
-bspc monitor -d ' 1.  '  ' 2.  '  ' 3.  '  ' 4.  '  ' 5.  '  ' 6. '  ' 7.  '  ' 8.  '  ' 9.  '
+bspc monitor -d ' 1.  '  ' 2.🦁'  ' 3.  '  ' 4.  '  ' 5.  '  ' 6. '  ' 7.  '  ' 8.  '  ' 9.  '
 #bspc monitor -d "1" "2" "3" "4" "5" "6" "7" "8" "9"
 bspc config border_width         2
 bspc config window_gap           10
