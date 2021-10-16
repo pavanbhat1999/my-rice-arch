@@ -18,7 +18,7 @@ Plug 'mhinz/vim-startify'
 "git-gutter
 Plug 'airblade/vim-gitgutter'
 "intelliscense
-"Plug 'neoclide/coc.nvim', {'branch': 'release'}
+"Plug 'neoclide/coc.nvim', {'branch': 'release' , 'for':'java'}
 "__________________________________________________
 Plug 'neovim/nvim-lspconfig'
 " Install nvim-cmp
@@ -27,6 +27,7 @@ Plug 'hrsh7th/nvim-cmp'
 Plug 'hrsh7th/cmp-buffer'
 Plug 'hrsh7th/cmp-nvim-lsp'
 Plug 'hrsh7th/cmp-path'
+Plug 'hrsh7th/cmp-vsnip'
 Plug 'hrsh7th/vim-vsnip'
 Plug 'hrsh7th/vim-vsnip-integ'
 "icons for lsp
@@ -38,7 +39,7 @@ Plug 'tpope/vim-surround'
 "Plug 'tpope/vim-vividchalk'
 "indentation guidelines
 "Plug 'nathanaelkane/vim-indent-guides'
-Plug 'Yggdroot/indentLine'
+"Plug 'Yggdroot/indentLine'
 ""minimap
 "Plug 'wfxr/minimap.vim'
 Plug 'psliwka/vim-smoothie'
@@ -52,6 +53,7 @@ Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 Plug 'nvim-lua/popup.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-telescope/telescope-fzf-native.nvim', { 'do': 'make' }
 ""fuzzy finedr using fzf
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
@@ -68,8 +70,9 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 "Color scheme community addition
 Plug 'lifepillar/vim-gruvbox8'
 Plug 'lifepillar/vim-solarized8'
+"Plug 'morhetz/gruvbox'
 "Plug 'ishan9299/nvim-solarized-lua'
 Plug 'dracula/vim'
 "latex completion
-Plug 'lervag/vimtex',{'do':'latex'}
+"Plug 'lervag/vimtex',{'do':'latex'}
 call plug#end()
