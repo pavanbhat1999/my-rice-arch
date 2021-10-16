@@ -1,2 +1,6 @@
 #! /bin/bash
+case $BLOCK_BUTTON in
+    1)temp="$(sensors | awk FNR==21'{print $2}')" ;;
+    3)notify-send " $(ps axch -o cmd:15,%cpu --sort=-%cpu | head) ";;
+esac
 sensors | awk FNR==21'{print $2}'
