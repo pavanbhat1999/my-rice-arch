@@ -204,7 +204,7 @@ autocmd BufWritePre *.jsx lua vim.lsp.buf.formatting_sync(nil, 100)
 autocmd BufWritePre *.py lua vim.lsp.buf.formatting_sync(nil, 100)
 luafile $HOME/.config/nvim/lua/cmp-config.lua
 luafile $HOME/.config/nvim/lua/python-lsp.lua
-luafile $HOME/.config/nvim/lua/bash-lsp.lua
+"luafile $HOME/.config/nvim/lua/bash-lsp.lua
 "inoremap <silent><expr> <CR> cmp#confirm({ 'keys': '<CR>', 'select': v:true })
 
 
