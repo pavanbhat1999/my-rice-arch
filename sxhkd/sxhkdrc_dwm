@@ -54,8 +54,8 @@ super+x
     import ~/Pictures/screenshot-`/bin/date +%Y%m%d-%H:%M:%S`.png
 super + alt + space
     kitty -e ranger 
-super + shift + r
-	pkill -USR1 -x sxhkd
+#super + shift + r
+	#pkill -USR1 -x sxhkd
 alt + v
     kitty -e nvim /home/root99/.config/nvim/init.vim
 alt + b
@@ -63,7 +63,7 @@ alt + b
 alt + k 
     kitty -e nvim /home/root99/.config/sxhkd/sxhkdrc
 alt + m
-    kitty -e mpd && kitty -e ncmpcpp
+    $HOME/bin/rofi-beats
 #alt + s
     #tdrop -ma -w -4  -s dropdown alacritty
 alt + x

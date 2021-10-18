@@ -21,6 +21,7 @@ Plug 'airblade/vim-gitgutter'
 "Plug 'neoclide/coc.nvim', {'branch': 'release' , 'for':'java'}
 "__________________________________________________
 Plug 'neovim/nvim-lspconfig'
+Plug 'williamboman/nvim-lsp-installer'
 " Install nvim-cmp
 Plug 'hrsh7th/nvim-cmp'
 " Install the buffer completion source

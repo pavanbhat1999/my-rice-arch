@@ -25,7 +25,9 @@ luafile $HOME/.config/nvim/lua/cmp-config.lua
 luafile $HOME/.config/nvim/lua/python-lsp.lua
 "luafile $HOME/.config/nvim/lua/bash-lsp.lua
 "luafile $HOME/.config/nvim/lua/lua-line.lua
-"luafile $HOME/.config/nvim/lua/treesitter.lua
+luafile $HOME/.config/nvim/lua/treesitter.lua
+luafile $HOME/.config/nvim/lua/lua-lsp.lua
+"luafile $HOME/.config/nvim/lua/efm.lua
 
 "lua << EOF
 "require'lspconfig'.jdtls.setup{ cmd = { 'jdtls' } }
